@@ -1,10 +1,10 @@
-冰淇淋的传承全栈道修行 🚀
+# 冰淇淋的传承全栈道修行 🚀
 
 欢迎来到我的正式项目集结地！这个开源主页完整记录了我从零基础迈向专业前端开发、AI工程化应用的蜕变之旅。
 
 ---
 
-## 📊 我的核心技术栈 (Tech Stack)
+## 📊 核心技术栈 (Tech Stack)
 * **全栈通信与网关**：Node.js 异步开发、WebSocket (ws) 高频全向管道、MQTT 协议报文流订阅调度
 * **大模型 AI 进化**：DeepSeek LLM、原生 Web Fetch API、ReadableStream 管道控制、SSE 流式解析、Function Calling / Tool Calling 结构化决策链落地
 * **前端可视化**：Vue 3 (Composition API / SFC 规范)、Vite 自动化构建、ECharts 5.x 高性能 Canvas 双轴增量渲染
